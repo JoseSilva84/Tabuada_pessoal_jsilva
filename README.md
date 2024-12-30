@@ -1,0 +1,1 @@
+O objetivo desse código python tem a ver com uma dinâmica e ensino da tabuada de matemática para os alunos do ensino fundamental 1. Como minha esposa é professora de matemática, esse código tende a gerar essa dinâmica com o fim facilitar o resultado na brincadeira.
